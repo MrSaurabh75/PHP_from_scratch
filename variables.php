@@ -10,7 +10,9 @@
         $a = 34;
         $b = 54;
         $c = "Saurabh";
+        echo $a+$b;
 
     ?>
+    <!-- PHP is not case sensitive -->
 </body>
 </html>
