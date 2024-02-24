@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FirstPHP</title>
+    <title>Variables</title>
 </head>
 <body>
-    <div class="container">
-        This is my first PHP website.!<br>
-        <?php
-            echo "Hello World";
-        ?>
-    </div>
+    <?php
+        $a = 34;
+        $b = 54;
+        $c = "Saurabh";
+
+    ?>
 </body>
 </html>
