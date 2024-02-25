@@ -11,12 +11,12 @@
         echo "<h5>Write a PHP program to check wheather the strings are equal or not</h5><br>";
         $str1 = "Saurabh";
         $str2 = "Saurabh";
-        if($str1 == $str2){
+        if($str1 == $str2)
             echo "Strings are equal<br>";
-        }
-        else{
+        
+        else
             echo "Strings are not equal<br>";
-        }
+        
         echo "<h5>Write a PHP program to check wheather the result of student is pass or fail.</h5><br>";
         $marks = 67;
         if($marks >=35 && $marks <= 100){
